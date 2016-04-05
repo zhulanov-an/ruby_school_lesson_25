@@ -36,7 +36,6 @@ sqlite> select * from cars;
 
 ```
 id          model       price
-----------  ----------  ----------
 1           Ford GT     155000
 6           Audi Q3     200000
 7           Brabus 300  230000
